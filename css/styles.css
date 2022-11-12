@@ -1,0 +1,118 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: Courgette;
+    font-size: 20px;
+    color: #2B7A0B;
+    text-align: center;
+    }
+h1
+{
+    font-size: 3rem;
+    margin: 50px auto 0 auto 0;
+    font-family: Aladin;
+    line-height: 2px;
+}
+h2{
+    font-family: Courgette;
+    font-weight: normal;
+}
+h3{
+    font-family: Aladin;
+    
+}
+p{
+    font-size: 20px;
+    font-family: Courgette;
+    text-align: center;
+    width: 70%;
+    margin: 3% auto 3% auto;
+}
+hr{
+    background-color:#E1FFB1;
+    border-style: dotted none none none;
+    border-color:#2B7A0B;
+    border-width: 5px;
+    width: 5%;
+}
+.top-container
+{
+    background-color: #E1FFB1;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.middle-container
+{
+    background-color: #C7F2A4;
+}
+.bottom-container
+{
+    background-color: #B6E388;
+    padding: 30px 0px 30px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.dp{
+    width: 25%;
+}
+.skill-row{
+    width: 50%;
+    margin: 10% auto 10% auto;
+    text-align: center;
+    }
+.web{
+    float: left;
+    margin: 30px;
+    width: 28%;
+}
+.cod{
+    float: right;
+    margin: 30px;
+    width: 28%;
+}
+.swe{
+    float: left;
+    margin: 30px;
+    width: 28%;
+}
+.btn {
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+    text-shadow: 9px 4px 8px #2B7A0B;
+    -webkit-box-shadow: 0px 0px 6px #2B7A0B;
+    -moz-box-shadow: 0px 0px 6px #2B7A0B;
+    box-shadow: 0px 0px 6px #2B7A0B;
+    font-family: Aladin;
+    color: #E1FFB1;
+    font-size: 21px;
+    padding: 10px;
+    background: #2B7A0B;
+    border: solid #2B7A0B 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: yellowgreen;
+    text-decoration:solid;
+  }
+  a{
+    font-family: Aladin;
+    color: #2B7A0B;
+    margin: 10px 10px;
+    text-decoration: none;
+  }
+a:hover{
+    color:#E1FFB1;
+}
